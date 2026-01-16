@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="blocktorch"
+version="1.0"
+displayName="BlockTorch"
+logoFile="logo.png"
+authors="nekostul"
+description='''
+Prevents placing torches from the off-hand.
+Configurable via GUI (/bt gui).
+'''

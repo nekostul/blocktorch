@@ -1,0 +1,10 @@
+{
+  "blocktorch.action.enabled": "§aПредметы из левой руки заблокированы",
+  "blocktorch.action.disabled": "§cБлокировка предметов отключена",
+  "blocktorch.action.blocked": "§cПредмет заблокирован в левой руке",
+
+
+"blocktorch.gui.title": "BlockTorch — выбери предметы для блокировки",
+  "blocktorch.gui.search": "Поиск",
+  "blocktorch.gui.close": "Закрыть"
+}

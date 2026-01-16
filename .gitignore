@@ -1,0 +1,49 @@
+# === Gradle ===
+.gradle/
+build/
+out/
+run/
+logs/
+*.log
+
+# === Forge / Minecraft ===
+*.jar
+!gradle-wrapper.jar
+*.zip
+*.lzma
+
+# === IDEs ===
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Eclipse
+.settings/
+.project
+.classpath
+.bin/
+
+# === OS junk ===
+.DS_Store
+Thumbs.db
+
+# === Java ===
+*.class
+
+# === Crash reports ===
+crash-reports/
+
+# === Forge MDK generated ===
+/forge*
+/gradle*
+/CREDITS.txt
+/LICENSE.txt
+
+# === Runtime configs (НЕ пушим) ===
+run/config/
+run/options.txt

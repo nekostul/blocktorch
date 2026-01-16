@@ -1,0 +1,9 @@
+{
+  "blocktorch.action.enabled": "§aOff-hand items are blocked",
+  "blocktorch.action.disabled": "§cItem blocking disabled",
+  "blocktorch.action.blocked": "§cItem is blocked in the off-hand",
+
+  "blocktorch.gui.title": "BlockTorch — select items to block",
+  "blocktorch.gui.search": "Search",
+  "blocktorch.gui.close": "Close"
+}
